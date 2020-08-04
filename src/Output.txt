@@ -1,0 +1,370 @@
+----ITEM----
+Book:
+Java 9 for programmers
+Deitel, Paul J; Deitel, Harvey M
+4th edn
+Boston : Pearson Education
+2017
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 1
+9780134777566
+
+Book:
+Effective Java 
+Bloch, Joshua
+Third edition
+Boston : Addison-Wesley
+2018
+English
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 0
+9780134685991
+
+Book:
+Introduction to Java programming : Brief version
+Liang, Y. Daniel
+Tenth edition
+Harlow, Essex, England : Pearson Education Limited
+2015
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 1
+9781292070018
+
+Book:
+Absolute Java 
+Savitch, Walter J; Mock, Kenrick
+6th ed
+England : Pearson Education
+2016
+English
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 1
+9781292109220
+
+Book:
+Software engineering : architecture-driven software development
+Schmidt, Richard F. (Richard Francis)
+6th ed
+Amsterdam ; Waltham, MA : Morgan Kaufmann, an imprint of Elsevier
+2013
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 0
+9780124077683
+
+Book:
+Software architecture in practice
+Bass, Len; Clements, Paul, 1955-; Kazman, Rick
+3rd ed
+Upper Saddle River, NJ : Addison-Wesley
+2013
+English
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 0
+9780124077685
+
+Book:
+Computer organization and design : the hardware/software interface
+Patterson, David A.; Hennessy, John L.
+Fifth edition
+Amsterdam ; Boston : Elsevier/Morgan Kaufmann, Morgan Kaufmann is an imprint of Elsevier
+2014
+English
+Available
+Number Of Copies: 1
+Number of Copies on Loan: 0
+9780124077263
+
+Book:
+Media studies: Media history, media and society
+Fourie, Pieter J
+2nd ed
+Cape Town: Juta
+2016
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 0
+9780702176920
+
+Book:
+Media now : understanding media, culture, and technology
+Straubhaar, Joseph D; LaRose, Robert; Davenport, Lucinda
+Ninth edition
+Boston : Cengage Learning
+2016
+English
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 1
+9781305080355
+
+Book:
+Media/impact : an introduction to mass media
+Biagi, Shirley
+Eleventh edition
+Stamford, CT : Cengage Learning
+2015
+English
+On Loan
+Number Of Copies: 1
+Number of Copies on Loan: 1
+9781133311386
+
+Journal:
+How to keep a sketchbook journal
+Cincinnati, Ohio : North Light Books
+2001
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 1
+97815818
+
+Journal:
+Diary of a wimpy kid : Greg Heffley's journal 
+Great Britain: Puffins
+2007
+English
+Available
+Number Of Copies: 1
+Number of Copies on Loan: 0
+97801413
+
+Journal:
+Diary of a wimpy kid  
+Great Britain: Puffins
+2006
+English
+Available
+Number Of Copies: 1
+Number of Copies on Loan: 0
+97801412
+
+DVD:
+DVD-art : innovation in DVD packaging design 
+Rivers, Charlotte
+Singapore : Page One Pub.
+2005
+English
+Available
+Number Of Copies: 1
+Number of Copies on Loan: 0
+
+DVD:
+The complete DVD book : designing, producing, and marketing your independent film on DVD 
+Gore, Chris, 1965-; Salamoff, Paul J., 1971-
+Studio City, CA : Michael Wiese Productions
+2005
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 0
+
+DVD:
+Big little lies
+Moriarty, Liane; Lee, Caroline
+USA : Penguin Group
+2017
+English
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 0
+
+DVD:
+The wedding banquet [dvd] : 囍宴 = Xi yan = Hsi yen 
+Comedy films, Feature films, Fiction films
+Santa Monica, CA : MGM Home Entertainment
+2004
+English
+Available
+Number Of Copies: 1
+Number of Copies on Loan: 0
+
+DVD:
+The eye [dvd] : The original chiller
+Rujinanon, Chutcha; Lee, Angelica; Chou, Lawrence
+USA : Tartan
+2008
+English
+Available
+Number Of Copies: 2
+Number of Copies on Loan: 0
+
+DVD:
+The lord of the rings [dvd] : The two towers
+McKellen, Ian
+United States : New Line Home Entertainment
+2001
+English
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 0
+
+DVD:
+The lord of the rings [dvd] : The fellowship of the ring
+McKellen, Ian
+United States : New Line Home Entertainment
+2002
+English
+Available
+Number Of Copies: 1
+Number of Copies on Loan: 0
+
+Book:
+Java new ne
+123
+12
+123
+2001
+13
+Available
+Number Of Copies: 3
+Number of Copies on Loan: 0
+1234567890
+
+----MEMBER----
+Vo ho gia huy
+s3761772
+0931347923
+s3761772@rmit.edu.vn
+125/24 D1 street ward 25 Binh Thanh District hcmc 
+2020-12-05
+Active
+Late Fee: 0.0
+Loan {issuedDate = 2020-08-03, returnedDate = null, item = Introduction to Java programming : Brief version}
+Loan {issuedDate = 2020-08-03, returnedDate = null, item = Absolute Java }
+Loan {issuedDate = 2020-08-03, returnedDate = null, item = Media/impact : an introduction to mass media}
+Loan {issuedDate = 2020-08-03, returnedDate = null, item = Media now : understanding media, culture, and technology}
+
+
+TRAN NGUYEN CAT TUONG
+s3762229
+0937447672
+s3762229@rmit.edu.vn
+26 Nguyen An street, ward Thanh My Loi, District 2 hcmc
+2020-11-05
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+Nguyen thi thu ha
+s3753366
+0908351441
+s3753366@rmit.edu.vn
+50 Nguyen Cu Trinh street, ward  Pham Ngu Lao, Dis 1, hcmc
+2021-09-09
+Active
+Late Fee: 0.0
+Loan {issuedDate = 2020-08-03, returnedDate = null, item = How to keep a sketchbook journal}
+
+
+Nguyen Ngoc Nhu Phuong
+s3817703
+0978867452
+s3817703@rmit.edu.vn
+33 Tran Quoc Hoang street, ward 4, Tan Binh Dis, hcmc
+2021-02-10
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+HUYNH PHUONG ANH
+s3817699
+0888798963
+s3817699@rmit.edu.vn
+129 Dinh Tien Hoang street, Ward 5, Binh Thanh Dis, hcmc
+2020-12-10
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+NGUYEN THI PHUONG ANH
+s3678899
+0391239129
+s3678899@rmit.edu.vn
+33 Nguyen Thi Minh Khai street, ward Ben Thanh, Dis 1, hcmc
+2021-11-11
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+Do Hoang Long
+s3817707
+0889997535
+s3817707@rmit.edu.vn
+78 Ly Chinh Thang street, ward 8, Dis 3, hcmc
+2021-03-12
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+TRUONG THE SON
+S3818433
+0852555000
+S3818433@rmit.edu.vn
+2 Nguyen An street, ward Thanh My Loi, District 2 hcmc
+2021-04-12
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+LE QUANG VINH
+s3713211
+0777967369
+s3713211@rmit.edu.vn
+5 Nguyen Cu Trinh street, ward  Pham Ngu Lao, Dis 1, hcmc
+2021-05-12
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+NGUYEN DINH DANG NGUYEN
+s3759957
+0367006189
+s3759957@rmit.edu.vn
+3 Tran Quoc Hoang street, ward 4, Tan Binh Dis, hcmc
+2021-06-12
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+Jimmy Chao
+S3802040
+0931897972
+s3802040@rmit.edu.vn
+12 Dinh Tien Hoang street, Ward 5, Binh Thanh Dis, hcmc
+2021-07-12
+Active
+Late Fee: 9.0
+Loan {issuedDate = 2020-08-03, returnedDate = null, item = Java 9 for programmers}
+
+
+Pham Hoang Nhu Phuc
+s3817738
+0364332325
+s3817738@rmit.edu.vn
+3 Nguyen Thi Minh Khai street, ward Ben Thanh, Dis 1, hcmc
+2021-08-12
+Active
+Late Fee: 0.0
+This member has not borrowed any item yet
+
+hello
+ss3802040
+09312312
+
+ssd@rmit.edu.vn
+2020-11-09
+active
+Late Fee: 0.0
+This member has not borrowed any item yet
+

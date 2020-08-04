@@ -1,0 +1,90 @@
+Java 9 for programmers
+Deitel, Paul J; Deitel, Harvey M
+4th edn
+Boston : Pearson Education
+2017
+English
+Available
+2
+9780134777566
+Effective Java 
+Bloch, Joshua
+Third edition
+Boston : Addison-Wesley
+2018
+English
+Available
+3
+9780134685991
+Introduction to Java programming : Brief version
+Liang, Y. Daniel
+Tenth edition
+Harlow, Essex, England : Pearson Education Limited
+2015
+English
+Available
+2
+9781292070018
+Absolute Java 
+Savitch, Walter J; Mock, Kenrick
+6th ed
+England : Pearson Education
+2016
+English
+Available
+3
+9781292109220
+Software engineering : architecture-driven software development
+Schmidt, Richard F. (Richard Francis)
+6th ed
+Amsterdam ; Waltham, MA : Morgan Kaufmann, an imprint of Elsevier
+2013
+English
+Available
+2
+9780124077683
+Software architecture in practice
+Bass, Len; Clements, Paul, 1955-; Kazman, Rick
+3rd ed
+Upper Saddle River, NJ : Addison-Wesley
+2013
+English
+Available
+3
+9780124077685
+Computer organization and design : the hardware/software interface
+Patterson, David A.; Hennessy, John L.
+Fifth edition
+Amsterdam ; Boston : Elsevier/Morgan Kaufmann, Morgan Kaufmann is an imprint of Elsevier
+2014
+English
+Available
+1
+9780124077263
+Media studies: Media history, media and society
+Fourie, Pieter J
+2nd ed
+Cape Town: Juta
+2016
+English
+Available
+2
+9780702176920
+Media now : understanding media, culture, and technology
+Straubhaar, Joseph D; LaRose, Robert; Davenport, Lucinda
+Ninth edition
+Boston : Cengage Learning
+2016
+English
+Available
+3
+9781305080355
+Media/impact : an introduction to mass media
+Biagi, Shirley
+Eleventh edition
+Stamford, CT : Cengage Learning
+2015
+English
+Available
+1
+9781133311386
