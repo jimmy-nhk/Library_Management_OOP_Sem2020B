@@ -46,7 +46,7 @@ public abstract class Item {
     // Method to verify the string in the correct format.
     public static boolean verifyInt(String integer) {
         try {
-            int a = Integer.parseInt(integer);
+            long a = Long.parseLong(integer); // Since the 13 digit is out of integer's range, it is compulsory to use long data type.
             return true;
         } catch (NumberFormatException e) {
             return false;

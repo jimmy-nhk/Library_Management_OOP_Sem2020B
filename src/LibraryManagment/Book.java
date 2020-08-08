@@ -31,7 +31,9 @@ public class Book extends Item {
 
     // The method to check the validation of ISBN
     public static boolean verifyISBN(String isbn) {
-        return verifyInt(isbn) && isbn.length() == 10;
+        if (verifyInt(isbn) && isbn.length() == 13){
+            return true;
+        } else return verifyInt(isbn) && isbn.length() == 10;
     }
 
     @Override
